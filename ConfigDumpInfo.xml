@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Продажи" id="b305d4f2-c5e4-4fbb-a89e-eda44eda799a" configVersion="96453124ce93704885c3cfb8a72c060700000000">
+			<Metadata name="AccumulationRegister.Продажи.Resource.Количество" id="87302dd4-d226-413b-9776-4b554609bb67"/>
+			<Metadata name="AccumulationRegister.Продажи.Resource.Сумма" id="db371de9-df54-45dc-9b47-1f912805a8b3"/>
+			<Metadata name="AccumulationRegister.Продажи.Dimension.Номенклатура" id="e65440bd-c084-4b1d-872c-4563b061b104"/>
+			<Metadata name="AccumulationRegister.Продажи.Dimension.Менеджер" id="f85e371e-5e89-4ee0-9d2a-81cc0aa0435e"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="1036d423-6cf8-4032-883b-2602b7dd717b" configVersion="06f206f0cd22724e8901562ac8a593fe00000000"/>
+		<Metadata name="Catalog.ПрограммыЛояльности" id="e7a4c7d4-f89f-4f1c-a6c6-35ebe1f3d425" configVersion="5afc1524210df44892025666e4a6ee8f00000000">
+			<Metadata name="Catalog.ПрограммыЛояльности.Attribute.СуммаПрограммы" id="c5dd809d-a431-43b9-9542-36d228ed959e"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="8470fcdd-3d9f-402f-8411-1d5e40d5deea" configVersion="2d9971394ac981469e1a93d7b25cbee200000000"/>
+		<Metadata name="CommonTemplate.РасчетДействияПрограммЛояльности" id="d5586056-367a-4135-8d1e-4e0aa4aee3d0" configVersion="9e65adbc573ec24097f341c03eec2d3d00000000"/>
+		<Metadata name="CommonTemplate.РасчетДействияПрограммЛояльности.Template" id="d5586056-367a-4135-8d1e-4e0aa4aee3d0.0" configVersion="f16c8201bcd9a6418a7a5ef530ae635e00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="ef627688-0ec1-4494-bbd9-3b0d17437500" configVersion="9ab4ff09433f434eb053736f94d0ba1200000000"/>
+		<Metadata name="Document.ПланПродаж" id="e8990cff-5b04-4230-b66a-244ac4730678" configVersion="ab2265378910284ea91a60ae908af09100000000">
+			<Metadata name="Document.ПланПродаж.TabularSection.ПланыПродаж.Attribute.СуммаПродаж" id="1a28a24b-4f21-434e-b3cf-b1156e8aa089"/>
+			<Metadata name="Document.ПланПродаж.TabularSection.ПланыПродаж.Attribute.Менеджер" id="62df5f59-71b6-4137-b752-71bc1db02a0c"/>
+			<Metadata name="Document.ПланПродаж.Attribute.Месяц" id="7ac4489f-251e-4524-b254-e0cd88aea867"/>
+			<Metadata name="Document.ПланПродаж.TabularSection.ПланыПродаж" id="de77b4a2-a7af-4aa1-8ef8-7951f08efc87"/>
+		</Metadata>
+		<Metadata name="Document.ПланПродаж.Form.ФормаДокумента" id="e27a04f5-d491-446f-a7d1-8ba2860b2412" configVersion="f3e666ac4d43374ea28286e85157544700000000"/>
+		<Metadata name="Document.ПланПродаж.Form.ФормаДокумента.Form" id="e27a04f5-d491-446f-a7d1-8ba2860b2412.0" configVersion="28d17ce053d429469acdf0851f7750d000000000"/>
+		<Metadata name="Document.ПланПродаж.ObjectModule" id="e8990cff-5b04-4230-b66a-244ac4730678.0" configVersion="8ac09dfef5951f48a039382307e4271f00000000"/>
+		<Metadata name="Document.РеализацияТоваров" id="d4367a08-8c70-4b99-8246-44942bbb185d" configVersion="8f6ab104dc94344392dd8db1b6377c0e00000000">
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары" id="131cac56-465d-4703-9193-1bae59bca1e1"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары.Attribute.Номенклатура" id="35d15ccf-13ed-41bf-9dba-67ce682dea2f"/>
+			<Metadata name="Document.РеализацияТоваров.Attribute.СуммаДокумента" id="7c02b1f7-0410-4ed0-9cb6-acf4fd9cba5d"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары.Attribute.Цена" id="a060cb50-345a-4ff0-833d-a76c20861815"/>
+			<Metadata name="Document.РеализацияТоваров.Attribute.Менеджер" id="a5c40c69-4b6d-4524-b39c-d37eeb8aa30b"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары.Attribute.Количество" id="cab66baf-57bc-4dde-b4ce-89a6e3b1293b"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары.Attribute.Сумма" id="f657c061-13e6-4f59-8157-8b6b1b011d3a"/>
+		</Metadata>
+		<Metadata name="Document.РеализацияТоваров.ObjectModule" id="d4367a08-8c70-4b99-8246-44942bbb185d.0" configVersion="cf448b1b1d45de48ac32c4b6c6724a3a00000000"/>
+		<Metadata name="Document.УстановкаПрограммыЛояльности" id="fdbf2e88-8f1f-4153-858b-650aee70b123" configVersion="8a4ae792d656b84280f0a8acd921832900000000">
+			<Metadata name="Document.УстановкаПрограммыЛояльности.TabularSection.Настройки" id="3125f948-0c27-489c-8ab9-ff6122947d08"/>
+			<Metadata name="Document.УстановкаПрограммыЛояльности.TabularSection.Настройки.Attribute.УсловияПолучения" id="5f5c4315-fc8f-47c2-a82a-07221e83edd4"/>
+			<Metadata name="Document.УстановкаПрограммыЛояльности.TabularSection.Настройки.Attribute.ПрограммаЛояльности" id="90fd91c5-fdfc-498a-8b8b-f4eaf75b1b57"/>
+			<Metadata name="Document.УстановкаПрограммыЛояльности.Attribute.ДействуетС" id="de555105-336e-4a06-9c68-635e0c6467aa"/>
+		</Metadata>
+		<Metadata name="Document.УстановкаПрограммыЛояльности.Form.ФормаДокумента" id="8b583b0c-82d6-4581-bd17-fa2d7de62a01" configVersion="c6904c6cbe373d4eba81b1aa81d0f68b00000000"/>
+		<Metadata name="Document.УстановкаПрограммыЛояльности.Form.ФормаДокумента.Form" id="8b583b0c-82d6-4581-bd17-fa2d7de62a01.0" configVersion="7da74b017e6190449ce71a4b1bb47d4c00000000"/>
+		<Metadata name="Document.УстановкаПрограммыЛояльности.ObjectModule" id="fdbf2e88-8f1f-4153-858b-650aee70b123.0" configVersion="9195bd942627ee49a3c7511396026eb100000000"/>
+		<Metadata name="InformationRegister.БонусныеПрограммы" id="519df0d6-743a-424e-8544-d58ef64da12c" configVersion="b7341c431d956d4cb4bcd1a473259cc200000000">
+			<Metadata name="InformationRegister.БонусныеПрограммы.Dimension.ПрограммаЛояльности" id="d990aa45-8717-43b9-8a65-d3522a97969f"/>
+			<Metadata name="InformationRegister.БонусныеПрограммы.Resource.УсловияПолучения" id="e689dcc1-9a96-4332-bc1d-bce34fdfe31a"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ПланыПродаж" id="fb33f954-dba3-4820-8f68-d86635181d85" configVersion="1e38868ec24b6d4c9ba40a6c284cc6ce00000000">
+			<Metadata name="InformationRegister.ПланыПродаж.Resource.СуммаПродаж" id="2155487f-c8e7-4839-97e3-b0e3ee5a0a6f"/>
+			<Metadata name="InformationRegister.ПланыПродаж.Dimension.Менеджер" id="8e71dff8-78f0-4537-808b-3681b388a559"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="ab0f369a-2ea0-4ef1-a6d5-f683bb82ecb0" configVersion="f07ce780ba564542b57ab433cd01995400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
